@@ -1,0 +1,1 @@
+This folder stores the log files for the training process of base models.
