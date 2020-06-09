@@ -1,0 +1,5 @@
+6:datasets/awa2/siamese+cat/siamese+cat_10001.jpg
+2:datasets/awa2/horse/horse_10001.jpg
+7:datasets/awa2/tiger/tiger_10001.jpg
+0:datasets/awa2/fox/fox_10001.jpg
+1:datasets/awa2/german+shepherd/german+shepherd_10001.jpg

@@ -1,0 +1,10 @@
+0:fox
+1:german+shepherd
+2:horse
+3:leopard
+4:lion
+5:persian+cat
+6:siamese+cat
+7:tiger
+8:wolf
+9:zebra

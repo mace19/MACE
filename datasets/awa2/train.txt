@@ -1,0 +1,10 @@
+6:datasets/awa2/siamese+cat/siamese+cat_10001.jpg
+2:datasets/awa2/horse/horse_10001.jpg
+7:datasets/awa2/tiger/tiger_10001.jpg
+0:datasets/awa2/fox/fox_10001.jpg
+1:datasets/awa2/german+shepherd/german+shepherd_10001.jpg
+5:datasets/awa2/persian+cat/persian+cat_10001.jpg
+4:datasets/awa2/lion/lion_10001.jpg
+8:datasets/awa2/wolf/wolf_10001.jpg
+3:datasets/awa2/leopard/leopard_10001.jpg
+9:datasets/awa2/zebra/zebra_10001.jpg
